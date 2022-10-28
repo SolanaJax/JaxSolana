@@ -4,4 +4,5 @@
 - 👀 I’m interested in Solana and crypto in general
 - 🌱 I’m currently learning Solana web development
 - 💞️ I’m looking to collaborate on any Solana NFT project
-- 📫 How to reach me: Discord tag: Jax#0235
+- 👄 I'm a core team member of https://github.com/HashLips
+- 📫 How to reach me: Discord tag: Jax#3333
